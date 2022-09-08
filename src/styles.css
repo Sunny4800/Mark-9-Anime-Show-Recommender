@@ -1,0 +1,75 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  font-family: "Ubuntu", sans-serif;
+  height: 135px;
+  background-color: black;
+  color: #f24406;
+  padding-top: 40px;
+  margin-bottom: 50px;
+}
+body {
+  background-color: #eafffd;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+h2 {
+  margin-bottom: 40px;
+  color: #09f755;
+}
+
+ul {
+  margin-bottom: 30px;
+}
+
+button {
+  font-size: 18px;
+  padding: 15px 20px;
+  margin: 10px;
+  border: none;
+  background-color: #7c3aed;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #f24406;
+}
+li {
+  border: 1px solid #374151;
+  list-style: none;
+  width: 50%;
+  margin: 15px auto;
+  font-size: 20px;
+  padding: 10px 15px;
+  text-align: left;
+  border-radius: 10px;
+}
+#head-text {
+  padding-bottom: 5px;
+}
+#head {
+  background-color: #12eaea;
+}
+#available {
+  font-size: 16px;
+  padding-top: 5px;
+}
+#text {
+  font-size: 16px;
+}
+
+#description {
+  font-size: 15px;
+  padding-top: 5px;
+}
